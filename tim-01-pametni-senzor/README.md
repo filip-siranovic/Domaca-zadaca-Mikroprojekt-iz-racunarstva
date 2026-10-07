@@ -3,6 +3,8 @@
 Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
 
 ## Pokretanje
+Filip Širanović 2.A
+
 
 1. Kopirajte cijelu mapu `tim-01-pametni-senzor` na vlastito računalo.
 2. U pregledniku otvorite `src/index.html`. Instalacija dodataka ili poslužitelja nije potrebna.
